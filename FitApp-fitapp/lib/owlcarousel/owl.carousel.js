@@ -1,20 +1,4 @@
-/**
- * Owl Carousel v2.2.1
- * Copyright 2013-2017 David Deutsch
- * Licensed under  ()
- */
-/**
- * Owl carousel
- * @version 2.1.6
- * @author Bartosz Wojciechowski
- * @author David Deutsch
- * @license The MIT License (MIT)
- * @todo Lazy Load Icon
- * @todo prevent animationend bubling
- * @todo itemsScaleUp
- * @todo Test Zepto
- * @todo stagePadding calculate wrong active classes
- */
+/
 ;(function($, window, document, undefined) {
 
 	/**
@@ -3067,13 +3051,7 @@
 
 })(window.Zepto || window.jQuery, window, document);
 
-/**
- * Hash Plugin
- * @version 2.1.0
- * @author Artus Kolanowski
- * @author David Deutsch
- * @license The MIT License (MIT)
- */
+
 ;(function($, window, document, undefined) {
 	'use strict';
 
@@ -3190,15 +3168,6 @@
 
 })(window.Zepto || window.jQuery, window, document);
 
-/**
- * Support Plugin
- *
- * @version 2.1.0
- * @author Vivid Planet Software GmbH
- * @author Artus Kolanowski
- * @author David Deutsch
- * @license The MIT License (MIT)
- */
 ;(function($, window, document, undefined) {
 
 	var style = $('<support>').get(0).style,
